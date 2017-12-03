@@ -1,4 +1,4 @@
-# InfoGAN for Facial Recognition
+# InfoGAN for Facial Recognition [In-Progress]
 
 This was a final project for my CS class, Adaptive Robotics.  Collaborated with Kastan Day.  Extended on a fork from user JonathanRaiman.
 
