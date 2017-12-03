@@ -1,5 +1,7 @@
 # InfoGAN for Facial Recognition
 
+This was a final project for my CS class, Adaptive Robotics.  Collaborated with Kastan Day.  Extended on a fork from user JonathanRaiman.
+
 We propose using a specific type of Generative Adversarial Networks, InfoGAN, for a specific type of facial recognition.  When provided a dataset of similar faces, the network should be able to draw out specific similar features from that person and classify those based on the amount of Categorical or Continuous variables provided.
 
 ## How to Run
