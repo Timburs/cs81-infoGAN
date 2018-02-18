@@ -1,0 +1,141 @@
+I liked: Clear visuals, good use of images 
+
+Could be improved: Isn't trying to solve the problem for the difficult
+data kind of the point, because that's how real world data works?
+Maybe this is irrelevant but at least clarify greater motivations and
+context
+
+like: There were many figures of the generated images, which was
+informative to a degree.
+
+improve: I think I understand GAN, and mutual information, but I don't
+think I understood the whole InfoGan pipeline from the
+presentation. And they were too much qualitative description of the
+images, rather than quantitative analysis(which is hard for the task,
+to be fair.)
+
+Good component: great visual component for the whole presentation 
+
+Component that needs work: even though they have explained it before,
+it would have been nice to hear a bit more depth of information on the
+networks used, especially how the Q network functioned - that was
+somewhat unclear
+
+They presented really well and were clearly enthusiastic about the
+project! Especially good was their deep dive into the nuances of their
+image datasets.
+
+However, I feel as though I  could have benefited if they'd spent more
+time on the technical details of the InfoGAN and how it works from the
+algorithmic sense, and less time walking through all the datasets.
+
+1. The presentation had really good energy.  They picked an
+interesting and challenging topic and it seemed like they learned a
+lot about GAN/infoGAN.  They’re slides were really clean and overall I
+thought they gave a good presentation.
+
+2. The “Three Big Networks” slide was confusing.  It felt like the
+entire background section was rushed; there seemed to be a lot of
+machinery underlying GANs that wasn’t explained deeply enough for me
+to follow.  The images on the “Cats and Dogs - Results” slides were
+too hard to see - I wasn’t convinced that the images contained the
+features that he said they did because they were so small and blurry.
+
+Positive: Very nice diagrams and visuals to help explain your 3
+networked system.
+
+Negative: An outline through out would be helpful as to where we
+are. There were many examples with multiple datasets.
+
+Thing they did well: I think they did a really good job of explaining
+how InfoGAN worked to an extent that the audience could understand
+generally how their project worked to an extent that was helpful in
+understanding their results, without getting too bogged down in the
+technical details. Their graphics were definitely helpful for this.
+
+Thing they could work on: It definitely wasn't intuitive that their
+categorical variables represented the things they claimed they
+represented. I think in order to make those claims they either need
+some more significant form of evidence than anything they mentioned in
+their presentation.
+
+Positives: Lot of interesting visuals and results
+
+Improvement: There seemed to be a lot of different experiments going
+on and it was a little unclear what the central goal/hypothesis is
+
+The Good: Really smooth presentation. The slides are extremely fluid
+and are easy to follow.
+
+Point of Improvement: I think they thought they had a lot to go
+through and that they wouldn't have enough time, so they rushed
+through the presentation. This was the case, finishing a couple
+minutes before the 20 minute mark, so I think they psyched themselves
+out a little bit. Awesome presentation overall, super cool topic and
+experiments!
+
+
++ Lots of good pictures as examples, and basically no text, which I
+  really liked
+
+- I think that the process of determining what each category was
+  representing was fairly sketchy, and I don't think you talked enough
+  about how you determined these
+
+Pro: The animations that pointed out images and features of interest
+helped to understand what you both were saying
+
+Con: Wish there was more explanation/discussion for why there was
+failures or the factors that might cause them.
+
+The presentation itself was aesthetically pleasing. I liked the color
+schemes you used.
+
+Improve: I think there needs to be more sharing of the speaking time
+
+Good: Results are displayed really effectively, and details of each
+are analyzed pretty thoroughly. Each new topic/dataset is well
+connected to the last and ties in to the overall structure of the
+talk.  Could be Improved: It would have been nice to have maybe one or
+two more slides on exactly what your Q-learning network does. Your
+verbal explanation was pretty clear, but could've benefited from a
+visual example. Back propagating to noise was kinda glanced over
+without much explanation.
+
+1) I liked the overview of all the different experiments. Strong
+discussion of what certain results meant for the nature of the data
+that was fed into InfoGAN.
+
+2) Something that needs work: probably a little more time on InfoGAN,
+especially since a portion of the class has not actually seen it
+before? I might be misremembering but I thought the InfoGAN checkpoint
+was presented in a lab section. In either case, some brief overview of
+how the networks were trying to learn in the experiments might be
+useful.
+
+What I liked: lots of examples; good interpretation of results
+
+A suggestion: felt rushed at times, so slow down; throughout the
+different experiments/examples, you should verbally note how they all
+connect back to your project's big idea
+
+They were both really good and engaging speakers. I liked how they
+presented their results.
+
+Their presentation was a little short.
+
+Good- good visualizations, graphs, and charts
+
+Needs Improvement- explanation of networks was a little confusing,
+undefined terms
+
+I would have appreciated the "Three Big Networks" to be presented a
+bit slower; there was a lot going on and I was distracted by what Tim
+was saying and seeing how it matched the slide. I also thing the slide
+introducing Cats vs Dogs was very distracting with the continuously
+changing pictures.  Would like to have seen the axes labels for the
+plots of discriminator vs. generator
+
+I really like the format of the slides for each of the 5 (I guess
+technically four) people--I enjoyed seeing the progression of
+pictures, as well as the large, true picture in the center.

@@ -1,6 +1,4 @@
-# InfoGAN for Facial Recognition [In-Progress]
-
-This was a final project for my CS class, Adaptive Robotics.  Collaborated with Kastan Day.  Extended on a fork from user JonathanRaiman.
+# InfoGAN for Facial Recognition
 
 We propose using a specific type of Generative Adversarial Networks, InfoGAN, for a specific type of facial recognition.  When provided a dataset of similar faces, the network should be able to draw out specific similar features from that person and classify those based on the amount of Categorical or Continuous variables provided.
 
@@ -41,13 +39,20 @@ pip install https://storage.googleapis.com/tensorflow/ PASTE HERE
 pip install https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-1.0.0rc1-cp35-cp35m-linux_x86_64.whl
 ```
 
+#### Path Variables
+If you get an error like: file not found libcudart.so.8.0, try:
+You may have to add these lines to the bottom of your ~/.bashrc file:
+`export CUDA_HOME=/usr/local/cuda`
+
+`export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64`
+
 ### 3) Running Code
 
 Now that we have everything, if we don't, just keep pip installing whatever was missing, let's run some code.
 Pull the code from our repo and run this:
 
  ` python3 infogan/__init__.py --infogan `
- 
+  
 This is very important, because it sets up the code BEFORE training.  We need to run this everytime we start a new session, otherwise we get scaling errors.  Running this also shows if you're missing any packages.
 
 ### 3.1) Grabbing a dataset

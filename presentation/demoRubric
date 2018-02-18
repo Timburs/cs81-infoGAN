@@ -1,0 +1,54 @@
+Score: 10/10
+
+1. Was a clear overview of the project given? Yes
+
+Generative Adversarial Networks, co-evolutionary approach
+
+Unsupervised, mutual info maximization
+
+Provide minimal constraints on what should be learned (such as
+categorical, continuous).
+
+Gave a brief overview of the two loss functions being used.
+
+2. Was the hypothesis and experiment to test it described? Yes
+
+Facial recognition in unsupervised way, give it a categorical variable
+for the number of different people in the data set
+
+Animal recognition
+
+InfoGAN will be able to come up with a reasonable discrimination of
+individual faces (animal and human)
+
+Hope to also apply this approach to artistic style
+
+3. What aspect of the system was demonstrated?
+
+CPU takes many hours per epoch, but on GPU takes 14 min per epoch
+Need thousands of epochs to get good results
+
+CelebA, George Bush data sets
+
+Showed some results from runs on these data sets
+
+Other data sets: YaleB11, Gerhard Schroeder (failed, but only 100
+images)
+
+Showed tensorboard visualization
+
+Take away so far: Must specify lots of parameters and need lots of
+data to succeed.
+
+4. Were questions adequately answered? Yes
+
+What parts of this are your own code? Answer to this question could
+have been clearer. 
+
+What advantages does this algorithm have? 
+
+Why not start with animals (the easier task)?
+
+Can you force it to pay attention to particular features?
+
+Is there any way to know what each variable is representing?
